@@ -1,9 +1,15 @@
-# Network-Programming-Lab
+# Network-Programming-Labs
 
-Some C programs that can run on linux. Including file operating programs, UDP and TCP socket programming.
+
+Some C programs that can run on linux. 
+
+Including file operating programs, UDP and TCP socket programming.
 
 ## How to run on linux
-an example:
-rz TCPsvr.c
+An example:
+
+rz TCPsvr.c 
+
 gcc TCPsvr.c -o TCPsvr
+
 ./TCPsvr
